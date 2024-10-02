@@ -1,7 +1,5 @@
-&diams; Mikaela Kihl
-&diams; Student | Front End Developer
-&diams; Sweden 
-&diams; www.linkedin.com/in/mikaelakihl
+&diams; Student | Front End Developer &diams;
+
 
 
 
